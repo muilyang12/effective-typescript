@@ -7,8 +7,5 @@
 
 <br />
 
-- 댄 밴더캄 저자의 책을 읽고 정리한 내용입니다.
-
-<br />
-
-- 책의 모든 내용을 정리하기 보다는 읽으면서 새롭게 알게되었던 사항을 위주로 작성하려 합니다.
+- 이 레포지토리는 댄 밴더캄 저자의 이펙티브 타입스크립트 책을 읽고 공부한 내용을 정리한 레포지토리입니다.
+- This repository is a collection of notes and summaries from studying the book "Effective TypeScript" by Dan Vanderkam.
